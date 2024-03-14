@@ -2,7 +2,7 @@
 
 ## About Me
 
-I'm a passionate Full-Stack Developer with a knack for creating efficient, scalable web applications. With a deep understanding of both frontend and backend technologies, I thrive in environments that challenge me to learn and grow. My journey in tech started with JavaScript, and I've since expanded my skill set to include a wide range of tools and frameworks.
+I'm a passionate Full-Stack Developer with a knack for creating web applications that solve minor annoyances. I thrive in environments that challenge me to learn and grow while frequently throwing myself into sink or swim situations. My journey in tech started with Hack Reactor, and I've since expanded my skill set to include a wide range of tools and frameworks.
 
 ### 🔭 I’m currently working on solving an issue of convience with my own [OptionTradeTracker](https://www.optiontradetracker.com) where I'm ...
 
