@@ -4,7 +4,7 @@
 
 I'm a passionate Full-Stack Developer with a knack for creating web applications that solve minor annoyances. I thrive in environments that challenge me to learn and grow while frequently throwing myself into sink or swim situations. My journey in tech started with Hack Reactor, and I've since expanded my skill set to include a wide range of tools and frameworks.
 
-### 🔭 I’m currently working on solving an issue of convience with my own [OptionTradeTracker](https://www.optiontradetracker.com) where I'm ...
+### 🔭 I’m currently working on solving an issue of convenience with my own [OptionTradeTracker](https://www.optiontradetracker.com) where I'm ...
 
 - Building dynamic, responsive web applications using TypeScript, React, and Next.js
 - Managing databases with PostgreSQL and user authentication and verification with OAuth2.0, ensuring data integrity and performance
