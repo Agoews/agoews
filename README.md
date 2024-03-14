@@ -25,7 +25,7 @@ I'm a passionate Full-Stack Developer with a knack for creating web applications
 ### 📫 How to reach me:
 
 - Email: George.H881@gmail.com
-- LinkedIn: [Your LinkedIn](https://linkedin.com/in/georgehalterman)
+- LinkedIn: [George Halterman](https://linkedin.com/in/georgehalterman)
 
 ### Skills
 <p align="left">
